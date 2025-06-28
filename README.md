@@ -19,5 +19,5 @@ Thank you to the Coin-Op Collection team and Sebastien Delestaing for their tire
   2) ddragon3
   3) sailormn
   4) wwfwfest
-  Enter your choice (1-3):
+  Enter your choice (1-4):
 </pre>
