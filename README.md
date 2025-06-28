@@ -17,6 +17,7 @@ Thank you to the Coin-Op Collection team and Sebastien Delestaing for their tire
   Select a ROM to generate:
   1) ctribe
   2) ddragon3
-  3) wwfwfest
+  3) sailormn
+  4) wwfwfest
   Enter your choice (1-3):
 </pre>
