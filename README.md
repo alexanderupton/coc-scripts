@@ -15,9 +15,10 @@ Thank you to the Coin-Op Collection team and Sebastien Delestaing for their tire
 <pre>
   coc_rom_generator.sh:v0.01
   Select a ROM to generate:
-  1) ctribe
-  2) ddragon3
-  3) sailormn
-  4) wwfwfest
-  Enter your choice (1-4):
+  1) agallet
+  2) ctribe
+  3) ddragon3
+  4) sailormn
+  5) wwfwfest
+  Enter your choice (1-5):
 </pre>
