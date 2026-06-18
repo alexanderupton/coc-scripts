@@ -5,7 +5,7 @@
 - [update_coc.sh](#update_coc.sh)
 
 
-# coc-scripts
+## coc-scripts
 MacOS & Linux tools for working with releases from the Coin-Op Collection team.
 # Support the Coin-Op Collection team exclusively at https://www.patreon.com/c/atrac17
 
